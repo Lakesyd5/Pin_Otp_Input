@@ -17,6 +17,8 @@ This Flutter project provides a customizable OTP/PIN input field widget, making 
 
 # What It Looks Like
 
+<img src="https://github.com/Lakesyd5/Pin_Otp_Input/blob/master/Screenshot%202023-08-10%20at%208.33.43%20PM.png" alt="Screenshot of the input field" width="300"/>
+
 # Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or a pull request.
